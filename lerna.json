@@ -1,0 +1,17 @@
+{
+  "version": "0.48.1",
+  "npmClient": "yarn",
+  "packages": [
+    "packages/*"
+  ],
+  "ignoreChanges": [
+    "**/tests/**",
+    "**/stories/**"
+  ],
+  "command": {
+    "version": {
+      "message": "chore: publish %s"
+    }
+  },
+  "useWorkspaces": true
+}

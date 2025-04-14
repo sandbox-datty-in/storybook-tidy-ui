@@ -1,0 +1,1970 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Accents 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c0::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(271,81%,56%,1);
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c2::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(333,71%,51%,1);
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c3::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(0,0%,32%,1);
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c4::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(221,83%,53%,1);
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c5::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(142,76%,36%,1);
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c6::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(32,95%,44%,1);
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c7::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(0,72%,51%,1);
+}
+
+.c1 {
+  color: hsla(210,19%,73%,1);
+  margin-left: 0.375rem;
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          major color
+        </dd>
+        <dt
+          class="c1"
+        >
+          major color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c2"
+        >
+          minor color
+        </dd>
+        <dt
+          class="c1"
+        >
+          minor color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c3"
+        >
+          neutral color
+        </dd>
+        <dt
+          class="c1"
+        >
+          neutral color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c4"
+        >
+          info color
+        </dd>
+        <dt
+          class="c1"
+        >
+          info color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c5"
+        >
+          success color
+        </dd>
+        <dt
+          class="c1"
+        >
+          success color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c6"
+        >
+          warning color
+        </dd>
+        <dt
+          class="c1"
+        >
+          warning color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c7"
+        >
+          danger color
+        </dd>
+        <dt
+          class="c1"
+        >
+          danger color value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c0::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(271,81%,56%,1);
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c2::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(333,71%,51%,1);
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c3::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(0,0%,32%,1);
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c4::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(221,83%,53%,1);
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c5::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(142,76%,36%,1);
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c6::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(32,95%,44%,1);
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c7::before {
+  content: '';
+  height: 0.8em;
+  width: 0.125rem;
+  margin-right: 0.25rem;
+  background-color: hsla(0,72%,51%,1);
+}
+
+.c1 {
+  color: hsla(210,19%,73%,1);
+  margin-left: 0.375rem;
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        major color
+      </dd>
+      <dt
+        class="c1"
+      >
+        major color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c2"
+      >
+        minor color
+      </dd>
+      <dt
+        class="c1"
+      >
+        minor color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c3"
+      >
+        neutral color
+      </dd>
+      <dt
+        class="c1"
+      >
+        neutral color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c4"
+      >
+        info color
+      </dd>
+      <dt
+        class="c1"
+      >
+        info color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c5"
+      >
+        success color
+      </dd>
+      <dt
+        class="c1"
+      >
+        success color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c6"
+      >
+        warning color
+      </dd>
+      <dt
+        class="c1"
+      >
+        warning color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c7"
+      >
+        danger color
+      </dd>
+      <dt
+        class="c1"
+      >
+        danger color value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Basic render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,0%,0.6);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(217,33%,17%,1);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          default label
+        </dd>
+        <dt
+          class="c1"
+        >
+          default value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,0%,0.6);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(217,33%,17%,1);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        default label
+      </dd>
+      <dt
+        class="c1"
+      >
+        default value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Custom elements 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c1 {
+  display: block;
+  font-size: 0.75rem;
+  -webkit-letter-spacing: 0.03333em;
+  -moz-letter-spacing: 0.03333em;
+  -ms-letter-spacing: 0.03333em;
+  letter-spacing: 0.03333em;
+  line-height: 1.66;
+  font-weight: 400;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.c3 {
+  display: block;
+  font-size: 1.5rem;
+  -webkit-letter-spacing: 0em;
+  -moz-letter-spacing: 0em;
+  -ms-letter-spacing: 0em;
+  letter-spacing: 0em;
+  line-height: 1.334;
+  font-weight: 400;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c2 {
+  color: hsla(210,19%,73%,1);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          <span
+            class="c1"
+            role="contentinfo"
+          >
+            custom label
+          </span>
+        </dd>
+        <dt
+          class="c2"
+        >
+          <h5
+            class="c3"
+            role="contentinfo"
+          >
+            custom val
+          </h5>
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c1 {
+  display: block;
+  font-size: 0.75rem;
+  -webkit-letter-spacing: 0.03333em;
+  -moz-letter-spacing: 0.03333em;
+  -ms-letter-spacing: 0.03333em;
+  letter-spacing: 0.03333em;
+  line-height: 1.66;
+  font-weight: 400;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.c3 {
+  display: block;
+  font-size: 1.5rem;
+  -webkit-letter-spacing: 0em;
+  -moz-letter-spacing: 0em;
+  -ms-letter-spacing: 0em;
+  letter-spacing: 0em;
+  line-height: 1.334;
+  font-weight: 400;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c2 {
+  color: hsla(210,19%,73%,1);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        <span
+          class="c1"
+          role="contentinfo"
+        >
+          custom label
+        </span>
+      </dd>
+      <dt
+        class="c2"
+      >
+        <h5
+          class="c3"
+          role="contentinfo"
+        >
+          custom val
+        </h5>
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Dark mode basic render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(210,19%,73%,1);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          default label
+        </dd>
+        <dt
+          class="c1"
+        >
+          default value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(210,19%,73%,1);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        default label
+      </dd>
+      <dt
+        class="c1"
+      >
+        default value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Disabled 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(0,0%,100%,0.5);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          warning accent
+        </dd>
+        <dt
+          class="c1"
+        >
+          warning accent disabled value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(0,0%,100%,0.5);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        warning accent
+      </dd>
+      <dt
+        class="c1"
+      >
+        warning accent disabled value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Tones 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,0%,0.6);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(271,81%,56%,1);
+}
+
+.c2 {
+  color: hsla(333,71%,51%,1);
+}
+
+.c3 {
+  color: hsla(0,0%,32%,1);
+}
+
+.c4 {
+  color: hsla(221,83%,53%,1);
+}
+
+.c5 {
+  color: hsla(142,76%,36%,1);
+}
+
+.c6 {
+  color: hsla(32,95%,44%,1);
+}
+
+.c7 {
+  color: hsla(0,72%,51%,1);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          major color
+        </dd>
+        <dt
+          class="c1"
+        >
+          major color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          minor color
+        </dd>
+        <dt
+          class="c2"
+        >
+          minor color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          neutral color
+        </dd>
+        <dt
+          class="c3"
+        >
+          neutral color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          info color
+        </dd>
+        <dt
+          class="c4"
+        >
+          info color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          success color
+        </dd>
+        <dt
+          class="c5"
+        >
+          success color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          warning color
+        </dd>
+        <dt
+          class="c6"
+        >
+          warning color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          danger color
+        </dd>
+        <dt
+          class="c7"
+        >
+          danger color value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,0%,0.6);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(271,81%,56%,1);
+}
+
+.c2 {
+  color: hsla(333,71%,51%,1);
+}
+
+.c3 {
+  color: hsla(0,0%,32%,1);
+}
+
+.c4 {
+  color: hsla(221,83%,53%,1);
+}
+
+.c5 {
+  color: hsla(142,76%,36%,1);
+}
+
+.c6 {
+  color: hsla(32,95%,44%,1);
+}
+
+.c7 {
+  color: hsla(0,72%,51%,1);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        major color
+      </dd>
+      <dt
+        class="c1"
+      >
+        major color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        minor color
+      </dd>
+      <dt
+        class="c2"
+      >
+        minor color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        neutral color
+      </dd>
+      <dt
+        class="c3"
+      >
+        neutral color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        info color
+      </dd>
+      <dt
+        class="c4"
+      >
+        info color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        success color
+      </dd>
+      <dt
+        class="c5"
+      >
+        success color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        warning color
+      </dd>
+      <dt
+        class="c6"
+      >
+        warning color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        danger color
+      </dd>
+      <dt
+        class="c7"
+      >
+        danger color value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Text Tones in dark 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(271,91%,65%,1);
+}
+
+.c2 {
+  color: hsla(330,81%,60%,1);
+}
+
+.c3 {
+  color: hsla(0,0%,45%,1);
+}
+
+.c4 {
+  color: hsla(217,91%,60%,1);
+}
+
+.c5 {
+  color: hsla(142,71%,45%,1);
+}
+
+.c6 {
+  color: hsla(38,92%,50%,1);
+}
+
+.c7 {
+  color: hsla(0,84%,60%,1);
+}
+
+<body>
+    <div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          major color
+        </dd>
+        <dt
+          class="c1"
+        >
+          major color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          minor color
+        </dd>
+        <dt
+          class="c2"
+        >
+          minor color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          neutral color
+        </dd>
+        <dt
+          class="c3"
+        >
+          neutral color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          info color
+        </dd>
+        <dt
+          class="c4"
+        >
+          info color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          success color
+        </dd>
+        <dt
+          class="c5"
+        >
+          success color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          warning color
+        </dd>
+        <dt
+          class="c6"
+        >
+          warning color value
+        </dt>
+      </div>
+      <div
+        class=""
+        role="contentinfo"
+      >
+        <dd
+          class="c0"
+        >
+          danger color
+        </dd>
+        <dt
+          class="c7"
+        >
+          danger color value
+        </dt>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: hsla(0,0%,100%,0.7);
+  margin-bottom: 0.5rem;
+}
+
+.c1 {
+  color: hsla(271,91%,65%,1);
+}
+
+.c2 {
+  color: hsla(330,81%,60%,1);
+}
+
+.c3 {
+  color: hsla(0,0%,45%,1);
+}
+
+.c4 {
+  color: hsla(217,91%,60%,1);
+}
+
+.c5 {
+  color: hsla(142,71%,45%,1);
+}
+
+.c6 {
+  color: hsla(38,92%,50%,1);
+}
+
+.c7 {
+  color: hsla(0,84%,60%,1);
+}
+
+<div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        major color
+      </dd>
+      <dt
+        class="c1"
+      >
+        major color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        minor color
+      </dd>
+      <dt
+        class="c2"
+      >
+        minor color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        neutral color
+      </dd>
+      <dt
+        class="c3"
+      >
+        neutral color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        info color
+      </dd>
+      <dt
+        class="c4"
+      >
+        info color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        success color
+      </dd>
+      <dt
+        class="c5"
+      >
+        success color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        warning color
+      </dd>
+      <dt
+        class="c6"
+      >
+        warning color value
+      </dt>
+    </div>
+    <div
+      class=""
+      role="contentinfo"
+    >
+      <dd
+        class="c0"
+      >
+        danger color
+      </dd>
+      <dt
+        class="c7"
+      >
+        danger color value
+      </dt>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

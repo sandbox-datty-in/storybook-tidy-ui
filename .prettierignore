@@ -1,0 +1,9 @@
+**/CHANGELOG.md
+**/node_modules/**
+**/build/**
+**/coverage/**
+*.log
+**/dist/**
+lerna.json
+**/jsdoc.json
+*/.vscode/**

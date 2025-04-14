@@ -1,0 +1,115 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint",
+    "react",
+    "unused-imports",
+    "simple-import-sort",
+    "typescript-sort-keys",
+    "sort-keys",
+    "jsdoc"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:jsonc/recommended-with-jsonc",
+    "plugin:jsdoc/recommended"
+  ],
+  "rules": {
+    "unused-imports/no-unused-imports": "error",
+    "sort-keys": 0, // disable default eslint sort-keys
+    "sort-keys/sort-keys-fix": 1,
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-var-requires": "off",
+    "jsonc/sort-keys": [
+      "error",
+      "asc",
+      {
+        "natural": true,
+        "minKeys": 2
+      }
+    ],
+    "typescript-sort-keys/interface": ["error", "asc", { "natural": true }],
+    "typescript-sort-keys/string-enum": ["error", "asc", { "natural": true }],
+    "simple-import-sort/imports": [
+      "error",
+      {
+        "groups": [
+          // Import order into one group
+          [
+            "^react",
+            "^@?\\w",
+            "^\\u0000",
+            "^(@tidy-ui)(/.*|$)",
+            "^\\.\\.(?!/?$)",
+            "^\\.\\./?$",
+            "^\\./(?=.*/)(?!/?$)",
+            "^\\.(?!/?$)",
+            "^\\./?$",
+            "^.+\\.?(css)$"
+          ]
+        ]
+      }
+    ],
+    "simple-import-sort/exports": "error",
+    "jsdoc/check-indentation": 1,
+    "jsdoc/check-line-alignment": 1,
+    "jsdoc/check-syntax": 1,
+    "jsdoc/require-description": [
+      "error",
+      {
+        "contexts": ["any"]
+      }
+    ],
+    "jsdoc/check-tag-names": ["error", { "definedTags": ["jest-environment"] }],
+    "jsdoc/no-undefined-types": [
+      "error",
+      { "definedTypes": ["HTMLSpanElement", "HTMLButtonElement", "HTMLAnchorElement", "HTMLDivElement", "JSX"] }
+    ],
+    "jsdoc/sort-tags": ["warn", { "alphabetizeExtras": true }],
+    "jsdoc/require-jsdoc": [
+      "error",
+      {
+        "contexts": [
+          "ArrowFunctionExpression",
+          "ClassDeclaration",
+          "ClassExpression",
+          "ClassProperty[accessibility='public']",
+          "ExportNamedDeclaration > VariableDeclaration",
+          "FunctionDeclaration",
+          "FunctionExpression",
+          "MethodDefinition",
+          "TSDeclareFunction",
+          "TSEnumDeclaration",
+          "TSInterfaceDeclaration",
+          "TSMethodSignature",
+          "TSModuleDeclaration",
+          "TSPropertySignature",
+          "TSTypeAliasDeclaration",
+          "MethodDefinition"
+        ],
+        "require": {
+          "ArrowFunctionExpression": true,
+          "ClassDeclaration": true,
+          "ClassExpression": true,
+          "FunctionDeclaration": true,
+          "FunctionExpression": true,
+          "MethodDefinition": true
+        }
+      }
+    ]
+  },
+  "settings": {
+    "jsdoc": {
+      "ignorePrivate": true,
+      "ignoreInternal": true,
+      "check-tag-names": [{ "definedTags": ["jest-environment"] }],
+      "minLines": 1
+    }
+  }
+}

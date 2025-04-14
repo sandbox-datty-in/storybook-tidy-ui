@@ -1,0 +1,54 @@
+{
+  "name": "@tidy-ui/frame",
+  "version": "0.48.1",
+  "readme": "README.md",
+  "scripts": {
+    "build": "yarn clean && rollup -c ../../rollup.config.js --environment PACKAGE_NAME:frame",
+    "build:md": "markdown-include ../../.markdown.json",
+    "clean": "rimraf -rf dist && rimraf -rf build",
+    "postinstall": "rm -rf node_modules/@types/react-native",
+    "reset": "yarn clean && rimraf -rf node_modules",
+    "vet": "yarn lint",
+    "yalc:publish": "yarn build && yalc publish",
+    "yalc:push": "yarn build && yalc push",
+    "docs": "jsdoc -X -c ../../jsdoc.conf.json > jsdoc.json"
+  },
+  "dependencies": {
+    "@tidy-ui/commons": "^0.48.1"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "styled-components": "^5.3.3"
+  },
+  "module": "./dist/index.esm.js",
+  "types": "dist/src/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badatt/tidy-ui"
+  },
+  "author": {
+    "name": "Balu Praveen Datty",
+    "email": "dev.badatt@gmail.om",
+    "url": "https://github.com/badatt"
+  },
+  "keywords": [
+    "react",
+    "styled-components",
+    "css-in-js",
+    "react-ui",
+    "components",
+    "ui",
+    "ui-components"
+  ],
+  "description": "The Frame component is a dynamic placeholder that adds a stylish touch while your content loads. It features various styles like circular for profile pics, linear for paragraphs, and defaults to rectangular. Easily adjust sizes and transition from loading to loaded with a flag. Frames have inviting round edges by default but can go edgy. You can even wrap a component, keeping it in loading mode until it's ready. Perfect for enhancing user experience during data fetching!",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "jsdoc.json",
+    "README.md"
+  ]
+}

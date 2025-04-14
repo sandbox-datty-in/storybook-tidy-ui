@@ -1,0 +1,4661 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stack Align 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: baseline;
+  -ms-flex-line-pack: baseline;
+  align-content: baseline;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-end;
+  -ms-flex-line-pack: end;
+  align-content: flex-end;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+}
+
+.c3 {
+  -webkit-align-self: baseline;
+  -ms-flex-item-align: baseline;
+  align-self: baseline;
+}
+
+.c5 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.c7 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+}
+
+.c9 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c2"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c3"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c3"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c4"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c5"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c5"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c6"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c7"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c7"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c8"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c9"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c9"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: baseline;
+  -ms-flex-line-pack: baseline;
+  align-content: baseline;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-end;
+  -ms-flex-line-pack: end;
+  align-content: flex-end;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+}
+
+.c3 {
+  -webkit-align-self: baseline;
+  -ms-flex-item-align: baseline;
+  align-self: baseline;
+}
+
+.c5 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.c7 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+}
+
+.c9 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c2"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c3"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c3"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c4"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c5"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c5"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c6"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c7"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c7"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c8"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c9"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c9"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Basic render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Custom margin 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 2rem;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 2rem;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Custom size 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  height: 25rem;
+  width: 25rem;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        height="25rem"
+        order="row"
+        role="group"
+        width="25rem"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  height: 25rem;
+  width: 25rem;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      height="25rem"
+      order="row"
+      role="group"
+      width="25rem"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Dark mode basic render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Divider 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c2 {
+  border-color: hsla(0,0%,83%,1);
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  border-style: solid;
+  margin: 0 0.5rem !important;
+  border-width: 0px thin 0px 0px;
+  margin: 0.5rem;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <hr
+          class="c2"
+          role="separator"
+        />
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c2 {
+  border-color: hsla(0,0%,83%,1);
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  border-style: solid;
+  margin: 0 0.5rem !important;
+  border-width: 0px thin 0px 0px;
+  margin: 0.5rem;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <hr
+        class="c2"
+        role="separator"
+      />
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Fold 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Gap 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  gap: 1rem;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  gap: 1rem;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Justify 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c2"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c3"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c4"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c5"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c6"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c7"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c2"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c3"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c4"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c5"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c6"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c7"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Stack Order 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+        order="row"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c2"
+        order="row-reverse"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c3"
+        order="column"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="c4"
+        order="column-reverse"
+        role="group"
+      >
+        <div
+          class="c1"
+        >
+          <div>
+            1
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            2
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            3
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            4
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            5
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            6
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            7
+          </div>
+        </div>
+        <div
+          class="c1"
+        >
+          <div>
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column-reverse;
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.c1 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+<div>
+    <div
+      class="c0"
+      order="row"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c2"
+      order="row-reverse"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c3"
+      order="column"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+    <div
+      class="c4"
+      order="column-reverse"
+      role="group"
+    >
+      <div
+        class="c1"
+      >
+        <div>
+          1
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          2
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          3
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          5
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          6
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          7
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div>
+          8
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
